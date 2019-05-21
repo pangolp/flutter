@@ -1,3 +1,3 @@
 main() {
-	print('Hola Flutter')
+	print('Hola Flutter');
 }
